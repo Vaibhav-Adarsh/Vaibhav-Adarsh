@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Vaibhav-Adarsh
-- 👀 I’m interested in ...Full Stack Devlopment
-- 🌱 I’m currently learning ...Web Devlopment
+- 👀 I’m interested in ...Solving Real World Problems
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..Instagram Or Linkdin
 - 😄 Pronouns: ...He/HIM
-- ⚡ Fun fact: ...I am a Part time crickter
+- ⚡ Fun fact: ..."Turning code into motion - working on dockless bike sharing with Pyhton and ESP32!"
 
 <!---
 Vaibhav-Adarsh/Vaibhav-Adarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
