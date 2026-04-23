@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav-Adarsh
 - 👀 I’m interested in ...Solving Real World Problems
-- 🌱 I’m currently learning ...DSA with Python
+- 🌱 I’m currently learning ...DSA with C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..Instagram Or Linkdin
 - 😄 Pronouns: ...He/HIM
