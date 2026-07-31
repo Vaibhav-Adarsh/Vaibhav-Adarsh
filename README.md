@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..Instagram Or Linkdin
 - 😄 Pronouns: ...He/HIM
-- ⚡ Fun fact: ..."Turning code into motion - working on dockless bike sharing with Pyhton and ESP32!"
+- ⚡ Fun fact: ..."Turning code into motion - working on dockless bike sharing with Python and ESP32!"
 
 <!---
 Vaibhav-Adarsh/Vaibhav-Adarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
