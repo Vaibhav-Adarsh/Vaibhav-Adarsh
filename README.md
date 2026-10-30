@@ -118,7 +118,7 @@ Here are some of the projects and engineering ideas I'm exploring.
   <a href="https://linkedin.com/in/vaibhav-adarsh-ba45b2322">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/VaibhavAdaxnu">
+  <a href="https://x.com/VaibhavAdanxu">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:Vaibhavadarsh07@gmail.com">
